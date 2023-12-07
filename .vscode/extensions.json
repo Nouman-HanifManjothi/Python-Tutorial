@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "pkief.material-icon-theme",
-        "youssef.viow",
-        "ms-python.python"
+        "youssef.viow"
     ]
 }
