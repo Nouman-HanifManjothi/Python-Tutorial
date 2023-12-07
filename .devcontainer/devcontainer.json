@@ -8,8 +8,19 @@
 		"vscode": {
 			"extensions": [
 				"PKief.material-icon-theme",
-				"Youssef.viow"
-			]
+				"Youssef.viow",
+				"AnbuselvanRocky.bootstrap5-vscode",
+				"esbenp.prettier-vscode",
+				"vscode-icons-team.vscode-icons",
+				"wayou.vscode-todo-highlight"
+			],
+
+			"settings": {
+				"editor.fontSize": 24,
+				"terminal.integrated.fontSize": 24,
+				"editor.wordWrap": "on"
+			}
+
 		}
 	}
 
